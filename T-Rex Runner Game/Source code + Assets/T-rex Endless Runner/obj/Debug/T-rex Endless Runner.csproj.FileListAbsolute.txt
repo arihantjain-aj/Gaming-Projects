@@ -1,0 +1,15 @@
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\obj\Debug\T-rex Endless Runner.csproj.AssemblyReference.cache
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\obj\Debug\T-rex Endless Runner.csproj.SuggestedBindingRedirects.cache
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\obj\Debug\T_rex_Endless_Runner.Properties.Resources.resources
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\obj\Debug\T_rex_Endless_Runner.TRex.resources
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\obj\Debug\T-rex Endless Runner.csproj.GenerateResource.cache
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\obj\Debug\T-rex Endless Runner.csproj.CoreCompileInputs.cache
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\bin\Debug\T-rex Endless Runner.exe.config
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\bin\Debug\T-rex Endless Runner.exe
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\bin\Debug\T-rex Endless Runner.pdb
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\obj\Debug\T-rex Endless Runner.exe
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\obj\Debug\T-rex Endless Runner.pdb
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\bin\Debug\T-rex Endless Runner.exe.manifest
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\bin\Debug\T-rex Endless Runner.application
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\obj\Debug\T-rex Endless Runner.exe.manifest
+C:\Gaming Projects\T-Rex Runner Game\Source code + Assets\T-rex Endless Runner\obj\Debug\T-rex Endless Runner.application

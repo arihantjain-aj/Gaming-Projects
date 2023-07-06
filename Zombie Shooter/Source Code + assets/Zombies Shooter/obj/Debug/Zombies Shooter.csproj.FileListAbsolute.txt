@@ -1,0 +1,15 @@
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\bin\Debug\Zombies Shooter.exe.config
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\bin\Debug\Zombies Shooter.exe
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\bin\Debug\Zombies Shooter.pdb
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\obj\Debug\Zombies Shooter.csproj.AssemblyReference.cache
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\obj\Debug\Zombies Shooter.csproj.SuggestedBindingRedirects.cache
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\obj\Debug\Zombies_Shooter.Zombie_shooter_frm.resources
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\obj\Debug\Zombies_Shooter.Properties.Resources.resources
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\obj\Debug\Zombies Shooter.csproj.GenerateResource.cache
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\obj\Debug\Zombies Shooter.csproj.CoreCompileInputs.cache
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\obj\Debug\Zombies Shooter.exe
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\obj\Debug\Zombies Shooter.pdb
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\bin\Debug\Zombies Shooter.exe.manifest
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\bin\Debug\Zombies Shooter.application
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\obj\Debug\Zombies Shooter.exe.manifest
+C:\Gaming Projects\Zombie Shooter\Source Code + assets\Zombies Shooter\obj\Debug\Zombies Shooter.application

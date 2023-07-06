@@ -1,0 +1,15 @@
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\bin\Debug\Flappy Bird.pdb
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\obj\Debug\Flappy Bird.csproj.AssemblyReference.cache
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\obj\Debug\Flappy Bird.csproj.SuggestedBindingRedirects.cache
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\obj\Debug\Flappy_Bird.FlappyBird.resources
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\obj\Debug\Flappy Bird.pdb
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\bin\Debug\Flappy Bird.exe.manifest
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\bin\Debug\Flappy Bird.application
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\obj\Debug\Flappy Bird.exe.manifest
+C:\Gaming Projects\Flappy Bird\Source Code + Assets\Flappy Bird\obj\Debug\Flappy Bird.application

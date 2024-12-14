@@ -1,4 +1,4 @@
-Flappy Bird
+# Flappy Bird
 
 A classic endless Flappy Bird game developed in C# .NET, offering the same challenging and addictive gameplay as the original.<br>
 

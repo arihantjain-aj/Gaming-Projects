@@ -14,7 +14,7 @@ Images Rights Goes to Respective Owners ("No copyright infringement intended")
 
 # 1. Zombie Shooter
 
-A fun and thrilling 2D endless zombie shooter game developed in C# with .NET, designed to keep players on their toes as they fight off waves of zombies.<br>
+A fun and thrilling 2D endless zombie shooter game developed in C# .NET, designed to keep players on their toes as they fight off waves of zombies.<br>
 
 
 Key features include:<br>

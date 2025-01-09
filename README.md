@@ -6,7 +6,23 @@
 
 
 
+
+
+
+
+
+
+
+
 *NOT FOR COMMERCIAL PURPOSES* 
+
+
+
+
+
+
+
+
 
 
 
@@ -22,7 +38,23 @@
 
 
 
+
+
+
+
+
+
+
+
 Demo Projects
+
+
+
+
+
+
+
+
 
 
 
@@ -46,7 +78,31 @@ Mini Games
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Tools Used Visual Studios 2022 
+
+
+
+
+
+
+
+
 
 
 
@@ -62,7 +118,31 @@ Language Used C#
 
 
 
+
+
+
+
+
+
+
+
 For Windows 8 and Above
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -94,6 +174,22 @@ Every Folder Containing Source Code + Assets And Setup (to Install and play Dire
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Images Rights Goes to Respective Owners ("No copyright infringement intended")
 
 
@@ -110,7 +206,39 @@ Images Rights Goes to Respective Owners ("No copyright infringement intended")
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 1. Zombie Shooter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -150,7 +278,39 @@ A fun and thrilling 2D endless zombie shooter game developed in C# .NET, designe
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Key features include:<br>
+
+
+
+
+
+
+
+
 
 
 
@@ -166,6 +326,14 @@ Key features include:<br>
 
 
 
+
+
+
+
+
+
+
+
 • Shooting Mechanics: Simple and intuitive shooting controls to take down zombies.<br>
 
 
@@ -174,7 +342,31 @@ Key features include:<br>
 
 
 
+
+
+
+
+
+
+
+
 • Health System: Stay alive as long as possible – the game ends when your health runs out.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -206,7 +398,31 @@ This game combines simple mechanics with endless action, providing a fun and eng
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Screenshot
+
+
+
+
+
+
+
+
 
 
 
@@ -222,7 +438,23 @@ This game combines simple mechanics with endless action, providing a fun and eng
 
 
 
+
+
+
+
+
+
+
+
 ![Snapshots (1)](https://github.com/arihantjain-aj/Gaming-Projects/assets/121403074/8e9b7c43-da7c-49cd-a64f-c80a48ef9037)
+
+
+
+
+
+
+
+
 
 
 
@@ -246,6 +478,22 @@ This game combines simple mechanics with endless action, providing a fun and eng
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
 
 
@@ -254,7 +502,31 @@ This game combines simple mechanics with endless action, providing a fun and eng
 
 
 
+
+
+
+
+
+
+
+
 # 2. T-Rex Runner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -294,7 +566,39 @@ A classic T-Rex endless runner game developed in C# .NET, inspired by the origin
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Key features include:<br>
+
+
+
+
+
+
+
+
 
 
 
@@ -310,6 +614,14 @@ Key features include:<br>
 
 
 
+
+
+
+
+
+
+
+
 • Dynamic Obstacles: Each obstacle is randomly generated with different lengths, adding variety and challenge to the gameplay.<br>
 
 
@@ -318,7 +630,31 @@ Key features include:<br>
 
 
 
+
+
+
+
+
+
+
+
 • Simple Yet Fun: Enjoy the simplicity of the original game with a fun twist on the obstacle mechanics.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -350,7 +686,31 @@ This game captures the essence of the iconic T-Rex browser game while adding a f
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Screenshot
+
+
+
+
+
+
+
+
 
 
 
@@ -366,7 +726,23 @@ This game captures the essence of the iconic T-Rex browser game while adding a f
 
 
 
+
+
+
+
+
+
+
+
 ![SnapShots (1)](https://github.com/arihantjain-aj/Gaming-Projects/assets/121403074/5a218ad4-6a4d-48bb-9f26-4bc8f00d138f)
+
+
+
+
+
+
+
+
 
 
 
@@ -390,6 +766,22 @@ This game captures the essence of the iconic T-Rex browser game while adding a f
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
 
 
@@ -398,7 +790,31 @@ This game captures the essence of the iconic T-Rex browser game while adding a f
 
 
 
+
+
+
+
+
+
+
+
 # 3. Flappy Bird
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -438,7 +854,39 @@ A classic endless Flappy Bird game developed in C# .NET, offering the same chall
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Key features include:<br>
+
+
+
+
+
+
+
+
 
 
 
@@ -454,6 +902,14 @@ Key features include:<br>
 
 
 
+
+
+
+
+
+
+
+
 • Simple Controls: Tap to make the bird fly and avoid the obstacles for as long as possible.<br>
 
 
@@ -462,7 +918,31 @@ Key features include:<br>
 
 
 
+
+
+
+
+
+
+
+
 • Classic Experience: Stay true to the original game's style, delivering an authentic and fun challenge.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -494,7 +974,31 @@ This game brings the iconic Flappy Bird experience to life, offering hours of en
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Screenshot
+
+
+
+
+
+
+
+
 
 
 
@@ -510,7 +1014,23 @@ This game brings the iconic Flappy Bird experience to life, offering hours of en
 
 
 
+
+
+
+
+
+
+
+
 ![Snapshots (1)](https://github.com/arihantjain-aj/Gaming-Projects/assets/121403074/bd992609-d48b-4836-bb9e-6c00d52b265f)
+
+
+
+
+
+
+
+
 
 
 
@@ -534,6 +1054,22 @@ This game brings the iconic Flappy Bird experience to life, offering hours of en
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
 
 
@@ -542,7 +1078,31 @@ This game brings the iconic Flappy Bird experience to life, offering hours of en
 
 
 
+
+
+
+
+
+
+
+
 # 4. Car Survival
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -582,7 +1142,39 @@ An exciting endless Car Survival game developed in C# .NET, where quick reflexes
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Key features include:<br>
+
+
+
+
+
+
+
+
 
 
 
@@ -598,6 +1190,14 @@ Key features include:<br>
 
 
 
+
+
+
+
+
+
+
+
 • Car Survival: Steer your car to avoid crashing into other vehicles, with the challenge escalating as you progress.<br>
 
 
@@ -606,7 +1206,31 @@ Key features include:<br>
 
 
 
+
+
+
+
+
+
+
+
 • Simple Controls: Move your car between lanes to dodge obstacles and stay on the road.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -638,6 +1262,22 @@ This game delivers a thrilling and fast-paced experience, perfect for those who 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Screenshot
 
 
@@ -646,7 +1286,23 @@ This game delivers a thrilling and fast-paced experience, perfect for those who 
 
 
 
+
+
+
+
+
+
+
+
    
+
+
+
+
+
+
+
+
 
 
 
